@@ -1,0 +1,834 @@
+2024-10-05 19:50:16,880 - DEBUG - Scan thread started
+2024-10-05 19:50:16,882 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 19:50:16,993 - DEBUG - Received output: Scan starting...
+2024-10-05 19:50:17,094 - DEBUG - Received output: Scan finished.
+2024-10-05 19:50:17,196 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 19:50:17,297 - DEBUG - Received output: 
+2024-10-05 19:50:17,398 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 19:50:17,505 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 19:50:17,607 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 19:50:17,708 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 19:50:17,810 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 19:50:17,912 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 19:50:18,013 - INFO - Scan summary: Found 1 threats in C:/Users/hbhav/Desktop/python
+2024-10-05 19:50:18,013 - INFO - Threat found: Virus:DOS/EICAR_Test_File in C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 19:50:18,015 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 19:53:49,498 - DEBUG - Scan thread started
+2024-10-05 19:53:49,499 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 19:53:49,575 - DEBUG - Received output: Scan starting...
+2024-10-05 19:53:49,676 - DEBUG - Received output: Scan finished.
+2024-10-05 19:53:49,777 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 19:53:49,878 - DEBUG - Received output: 
+2024-10-05 19:53:49,979 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 19:53:50,081 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 19:53:50,182 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 19:53:50,283 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 19:53:50,384 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 19:53:50,486 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 19:53:50,588 - INFO - Scan summary: Found 1 threats in C:/Users/hbhav/Desktop/python
+2024-10-05 19:53:50,589 - INFO - Threat found: Virus:DOS/EICAR_Test_File in C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 19:53:50,589 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 19:56:18,119 - DEBUG - Scan thread started
+2024-10-05 19:56:18,120 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 19:56:18,195 - DEBUG - Received output: Scan starting...
+2024-10-05 19:56:18,296 - DEBUG - Received output: Scan finished.
+2024-10-05 19:56:18,398 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 19:56:18,499 - DEBUG - Received output: 
+2024-10-05 19:56:18,600 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 19:56:18,702 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 19:56:18,803 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 19:56:18,911 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 19:56:19,013 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 19:56:19,114 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 19:56:19,217 - INFO - Scan summary: Found 1 threats in C:/Users/hbhav/Desktop/python
+2024-10-05 19:56:19,218 - INFO - Threat found: Virus:DOS/EICAR_Test_File in C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 19:56:19,218 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 19:58:47,665 - DEBUG - Scan thread started
+2024-10-05 19:58:47,667 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 19:58:47,751 - DEBUG - Received output: Scan starting...
+2024-10-05 19:58:47,852 - DEBUG - Received output: Scan finished.
+2024-10-05 19:58:47,954 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found no threats.
+2024-10-05 19:58:48,057 - WARNING - No summary found in the scan output. Please check the full output for details.
+2024-10-05 19:58:48,057 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found no threats.
+
+2024-10-05 19:59:09,690 - DEBUG - Scan thread started
+2024-10-05 19:59:09,691 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 19:59:09,766 - DEBUG - Received output: Scan starting...
+2024-10-05 19:59:09,868 - DEBUG - Received output: Scan finished.
+2024-10-05 19:59:09,969 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 19:59:10,070 - DEBUG - Received output: 
+2024-10-05 19:59:10,172 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 19:59:10,273 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 19:59:10,376 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 19:59:10,478 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 19:59:10,579 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 19:59:10,681 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 19:59:10,782 - INFO - Scan summary: Found 1 threats in C:/Users/hbhav/Desktop/python
+2024-10-05 19:59:10,784 - INFO - Threat found: Virus:DOS/EICAR_Test_File in C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 19:59:10,784 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 20:01:25,794 - DEBUG - Scan thread started
+2024-10-05 20:01:25,795 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 20:01:25,875 - DEBUG - Received output: Scan starting...
+2024-10-05 20:01:25,976 - DEBUG - Received output: Scan finished.
+2024-10-05 20:01:26,077 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 20:01:26,179 - DEBUG - Received output: 
+2024-10-05 20:01:26,281 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 20:01:26,382 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 20:01:26,484 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 20:01:26,586 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 20:01:26,690 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:01:26,795 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 20:01:26,898 - INFO - Scan summary: Found 1 threats in C:/Users/hbhav/Desktop/python
+2024-10-05 20:01:26,900 - INFO - Threat found: Virus:DOS/EICAR_Test_File in C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:01:26,900 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 20:06:02,835 - DEBUG - Scan thread started
+2024-10-05 20:06:02,836 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 20:06:02,890 - DEBUG - Received output: Scan starting...
+2024-10-05 20:06:02,991 - DEBUG - Received output: Scan finished.
+2024-10-05 20:06:03,093 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 20:06:03,194 - DEBUG - Received output: 
+2024-10-05 20:06:03,295 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 20:06:03,396 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 20:06:03,500 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 20:06:03,603 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 20:06:03,705 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:06:03,806 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 20:06:03,908 - INFO - Scan summary: Found 1 threats in C:/Users/hbhav/Desktop/python
+2024-10-05 20:06:03,910 - INFO - Threat found: Virus:DOS/EICAR_Test_File in C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:06:03,910 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 20:06:55,902 - DEBUG - Scan thread started
+2024-10-05 20:06:55,903 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 20:06:55,962 - DEBUG - Received output: Scan starting...
+2024-10-05 20:06:56,063 - DEBUG - Received output: Scan finished.
+2024-10-05 20:06:56,164 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 20:06:56,266 - DEBUG - Received output: 
+2024-10-05 20:06:56,367 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 20:06:56,469 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 20:06:56,571 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 20:06:56,672 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 20:06:56,774 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:06:56,875 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 20:06:56,977 - INFO - Scan summary: Found 1 threats in C:/Users/hbhav/Desktop/python
+2024-10-05 20:06:56,978 - INFO - Threat found: Virus:DOS/EICAR_Test_File in C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:06:56,978 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 20:16:53,679 - DEBUG - Scan thread started
+2024-10-05 20:16:53,680 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 20:16:53,766 - DEBUG - Received output: Scan starting...
+2024-10-05 20:16:53,866 - DEBUG - Received output: Scan finished.
+2024-10-05 20:16:53,967 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found no threats.
+2024-10-05 20:16:54,070 - WARNING - No summary found in the scan output. Please check the full output for details.
+2024-10-05 20:16:54,071 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found no threats.
+
+2024-10-05 20:17:08,113 - DEBUG - Scan thread started
+2024-10-05 20:17:08,114 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 20:17:08,164 - DEBUG - Received output: Scan starting...
+2024-10-05 20:17:08,266 - DEBUG - Received output: Scan finished.
+2024-10-05 20:17:08,367 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 20:17:08,468 - DEBUG - Received output: 
+2024-10-05 20:17:08,570 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 20:17:08,673 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 20:17:08,773 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 20:17:08,876 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 20:17:08,978 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:17:09,080 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 20:17:09,182 - INFO - Scan summary: Found 1 threats in C:/Users/hbhav/Desktop/python
+2024-10-05 20:17:09,186 - INFO - Threat found: Virus:DOS/EICAR_Test_File in C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:17:09,187 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 20:18:06,243 - DEBUG - Scan thread started
+2024-10-05 20:18:06,244 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 20:18:06,305 - DEBUG - Received output: Scan starting...
+2024-10-05 20:18:06,406 - DEBUG - Received output: Scan finished.
+2024-10-05 20:18:06,507 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 20:18:06,608 - DEBUG - Received output: 
+2024-10-05 20:18:06,710 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 20:18:06,812 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 20:18:06,913 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 20:18:07,014 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 20:18:07,119 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:18:07,225 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 20:18:07,329 - INFO - Scan summary: Found 1 threats in C:/Users/hbhav/Desktop/python
+2024-10-05 20:18:07,329 - INFO - Threat found: Virus:DOS/EICAR_Test_File in C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:18:07,330 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 20:19:21,712 - DEBUG - Scan thread started
+2024-10-05 20:19:21,713 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 20:19:21,781 - DEBUG - Received output: Scan starting...
+2024-10-05 20:19:21,882 - DEBUG - Received output: Scan finished.
+2024-10-05 20:19:21,984 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 20:19:22,088 - DEBUG - Received output: 
+2024-10-05 20:19:22,190 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 20:19:22,292 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 20:19:22,393 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 20:19:22,495 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 20:19:22,596 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:19:22,698 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 20:19:22,799 - INFO - Scan summary: Found 1 threats in C:/Users/hbhav/Desktop/python
+2024-10-05 20:19:22,800 - INFO - Threat found: Virus:DOS/EICAR_Test_File in C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:19:22,800 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 20:24:43,262 - DEBUG - Scan thread started
+2024-10-05 20:24:43,263 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 20:24:43,335 - DEBUG - Received output: Scan starting...
+2024-10-05 20:24:43,436 - DEBUG - Received output: Scan finished.
+2024-10-05 20:24:43,537 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 20:24:43,639 - DEBUG - Received output: 
+2024-10-05 20:24:43,742 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 20:24:43,843 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 20:24:43,944 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 20:24:44,046 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 20:24:44,147 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:24:44,248 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 20:24:44,354 - INFO - Scan summary: Found 1 threats in C:/Users/hbhav/Desktop/python
+2024-10-05 20:24:44,355 - INFO - Threat found: Virus:DOS/EICAR_Test_File in C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:24:44,355 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 20:27:35,306 - DEBUG - Scan thread started
+2024-10-05 20:27:35,307 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 20:27:35,382 - DEBUG - Received output: Scan starting...
+2024-10-05 20:27:35,484 - DEBUG - Received output: Scan finished.
+2024-10-05 20:27:35,585 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found no threats.
+2024-10-05 20:27:35,687 - WARNING - No summary found in the scan output. Please check the full output for details.
+2024-10-05 20:27:35,688 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found no threats.
+
+2024-10-05 20:27:58,549 - DEBUG - Scan thread started
+2024-10-05 20:27:58,549 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 20:27:58,593 - DEBUG - Received output: Scan starting...
+2024-10-05 20:27:58,693 - DEBUG - Received output: Scan finished.
+2024-10-05 20:27:58,794 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 20:27:58,895 - DEBUG - Received output: 
+2024-10-05 20:27:58,996 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 20:27:59,098 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 20:27:59,199 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 20:27:59,300 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 20:27:59,401 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:27:59,502 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 20:27:59,603 - INFO - Scan summary: Found 1 threats in C:/Users/hbhav/Desktop/python
+2024-10-05 20:27:59,603 - INFO - Threat found: Virus:DOS/EICAR_Test_File in C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 20:27:59,604 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 20:46:55,984 - DEBUG - Scan thread started
+2024-10-05 20:46:55,987 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 20:46:56,074 - DEBUG - Received output: Scan starting...
+2024-10-05 20:46:56,175 - DEBUG - Received output: Scan finished.
+2024-10-05 20:46:56,277 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found no threats.
+2024-10-05 20:46:56,378 - WARNING - No summary found in the scan output. Please check the full output for details.
+2024-10-05 20:46:56,378 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found no threats.
+
+2024-10-05 20:57:28,246 - DEBUG - Scan thread started for Windows Defender
+2024-10-05 20:57:28,247 - INFO - Starting scan with Windows Defender: "%ProgramFiles%\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 21:41:30,593 - DEBUG - Scan thread started for Windows Defender
+2024-10-05 21:41:30,594 - INFO - Starting scan with Windows Defender: ssh user@defender-vm 'powershell -File C:\path\to\scan_script.ps1'
+2024-10-05 21:53:27,649 - DEBUG - Scan thread started
+2024-10-05 21:53:27,649 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 21:53:27,718 - DEBUG - Received output: Scan starting...
+2024-10-05 21:53:27,820 - DEBUG - Received output: Scan finished.
+2024-10-05 21:53:27,922 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found no threats.
+2024-10-05 21:53:28,023 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found no threats.
+
+2024-10-05 21:55:06,293 - DEBUG - Scan thread started
+2024-10-05 21:55:06,294 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 21:55:06,356 - DEBUG - Received output: Scan starting...
+2024-10-05 21:55:06,457 - DEBUG - Received output: Scan finished.
+2024-10-05 21:55:06,558 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found no threats.
+2024-10-05 21:55:06,659 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found no threats.
+
+2024-10-05 21:56:56,569 - DEBUG - Scan thread started
+2024-10-05 21:56:56,570 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 21:56:56,643 - DEBUG - Received output: Scan starting...
+2024-10-05 21:56:56,744 - DEBUG - Received output: Scan finished.
+2024-10-05 21:56:56,845 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found no threats.
+2024-10-05 21:56:56,946 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found no threats.
+
+2024-10-05 21:57:32,318 - DEBUG - Scan thread started
+2024-10-05 21:57:32,319 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 21:57:32,770 - DEBUG - Received output: Scan starting...
+2024-10-05 21:57:32,871 - DEBUG - Received output: Scan finished.
+2024-10-05 21:57:32,972 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 21:57:33,073 - DEBUG - Received output: 
+2024-10-05 21:57:33,174 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 21:57:33,275 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 21:57:33,377 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 21:57:33,478 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 21:57:33,582 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 21:57:33,684 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 21:57:33,787 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 21:59:48,988 - DEBUG - Scan thread started
+2024-10-05 21:59:48,989 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 21:59:49,309 - DEBUG - Received output: Scan starting...
+2024-10-05 21:59:49,410 - DEBUG - Received output: Scan finished.
+2024-10-05 21:59:49,511 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 21:59:49,611 - DEBUG - Received output: 
+2024-10-05 21:59:49,712 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 21:59:49,830 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 21:59:49,931 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 21:59:50,031 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 21:59:50,132 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 21:59:50,233 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 21:59:50,339 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:05:03,027 - DEBUG - Scan thread started
+2024-10-05 22:05:03,027 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 22:05:03,107 - DEBUG - Received output: Scan starting...
+2024-10-05 22:05:03,209 - DEBUG - Received output: Scan finished.
+2024-10-05 22:05:03,311 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 22:05:03,411 - DEBUG - Received output: 
+2024-10-05 22:05:03,512 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:05:03,614 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:05:03,714 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:05:03,815 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 22:05:03,915 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 22:05:04,016 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:05:04,117 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:06:31,923 - DEBUG - Scan thread started
+2024-10-05 22:06:31,923 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 22:06:31,992 - DEBUG - Received output: Scan starting...
+2024-10-05 22:06:32,093 - DEBUG - Received output: Scan finished.
+2024-10-05 22:06:32,194 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 22:06:32,295 - DEBUG - Received output: 
+2024-10-05 22:06:32,396 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:06:32,498 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:06:32,599 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:06:32,699 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 22:06:32,800 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 22:06:32,901 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:06:33,003 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:13:50,785 - DEBUG - Scan thread started
+2024-10-05 22:13:50,786 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Downloads/Telegram Desktop" -DisableRemediation
+2024-10-05 22:13:50,974 - DEBUG - Received output: Scan starting...
+2024-10-05 22:13:51,075 - DEBUG - Received output: Scan finished.
+2024-10-05 22:13:51,183 - DEBUG - Received output: Scanning C:/Users/hbhav/Downloads/Telegram Desktop found no threats.
+2024-10-05 22:13:51,285 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Downloads/Telegram Desktop found no threats.
+
+2024-10-05 22:14:35,003 - DEBUG - Scan thread started
+2024-10-05 22:14:35,004 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:/Users/hbhav/Desktop/python" -DisableRemediation
+2024-10-05 22:14:35,092 - DEBUG - Received output: Scan starting...
+2024-10-05 22:14:35,193 - DEBUG - Received output: Scan finished.
+2024-10-05 22:14:35,294 - DEBUG - Received output: Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+2024-10-05 22:14:35,395 - DEBUG - Received output: 
+2024-10-05 22:14:35,496 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:14:35,596 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:14:35,697 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:14:35,799 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 22:14:35,900 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+2024-10-05 22:14:36,001 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:14:36,102 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:/Users/hbhav/Desktop/python found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\python\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:19:30,021 - DEBUG - Scan thread started
+2024-10-05 22:19:30,022 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:19:30,084 - DEBUG - Received output: Scan starting...
+2024-10-05 22:19:30,185 - DEBUG - Received output: Scan finished.
+2024-10-05 22:19:30,285 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+2024-10-05 22:19:30,387 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+
+2024-10-05 22:20:12,188 - DEBUG - Scan thread started
+2024-10-05 22:20:12,188 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:20:12,247 - DEBUG - Received output: Scan starting...
+2024-10-05 22:20:12,348 - DEBUG - Received output: Scan finished.
+2024-10-05 22:20:12,450 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+2024-10-05 22:20:12,551 - DEBUG - Received output: 
+2024-10-05 22:20:12,652 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:20:12,754 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:20:12,855 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:20:12,956 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 22:20:13,057 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\eicar_test.txt
+2024-10-05 22:20:13,159 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:20:13,261 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\Target Folder\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:23:27,632 - DEBUG - Scan thread started
+2024-10-05 22:23:27,632 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:23:27,694 - DEBUG - Received output: Scan starting...
+2024-10-05 22:23:27,795 - DEBUG - Received output: Scan finished.
+2024-10-05 22:23:27,896 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+2024-10-05 22:23:27,997 - DEBUG - Received output: 
+2024-10-05 22:23:28,099 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:23:28,201 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:23:28,302 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:23:28,408 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 22:23:28,509 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\eicar_test.txt
+2024-10-05 22:23:28,611 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:23:28,725 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\Target Folder\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:23:47,108 - DEBUG - Scan thread started
+2024-10-05 22:23:47,108 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:23:47,170 - DEBUG - Received output: Scan starting...
+2024-10-05 22:23:47,271 - DEBUG - Received output: Scan finished.
+2024-10-05 22:23:47,372 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+2024-10-05 22:23:47,474 - DEBUG - Received output: 
+2024-10-05 22:23:47,575 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:23:47,676 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:23:47,777 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:23:47,878 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 22:23:47,979 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\eicar_test.txt
+2024-10-05 22:23:48,081 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:23:48,185 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\Target Folder\eicar_test.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:25:13,709 - DEBUG - Scan thread started
+2024-10-05 22:25:13,710 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:25:13,770 - DEBUG - Received output: Scan starting...
+2024-10-05 22:25:13,870 - DEBUG - Received output: Scan finished.
+2024-10-05 22:25:13,971 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+2024-10-05 22:25:14,073 - DEBUG - Received output: 
+2024-10-05 22:25:14,174 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:25:14,275 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:25:14,376 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:25:14,478 - DEBUG - Received output: Resources               : 2 total
+2024-10-05 22:25:14,579 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\eicar_test.txt
+2024-10-05 22:25:14,681 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\eicar_tebdjnfbnst.txt
+2024-10-05 22:25:14,782 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:25:14,887 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 2 total
+    file                : C:\Users\hbhav\Desktop\Target Folder\eicar_test.txt
+    file                : C:\Users\hbhav\Desktop\Target Folder\eicar_tebdjnfbnst.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:25:26,586 - DEBUG - Scan thread started
+2024-10-05 22:25:26,586 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:25:26,643 - DEBUG - Received output: Scan starting...
+2024-10-05 22:25:26,743 - DEBUG - Received output: Scan finished.
+2024-10-05 22:25:26,844 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+2024-10-05 22:25:26,945 - DEBUG - Received output: 
+2024-10-05 22:25:27,046 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:25:27,147 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:25:27,248 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:25:27,349 - DEBUG - Received output: Resources               : 2 total
+2024-10-05 22:25:27,450 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\eicar_test.txt
+2024-10-05 22:25:27,551 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\eicar_tebdjnfbnst.txt
+2024-10-05 22:25:27,652 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:25:27,761 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 2 total
+    file                : C:\Users\hbhav\Desktop\Target Folder\eicar_test.txt
+    file                : C:\Users\hbhav\Desktop\Target Folder\eicar_tebdjnfbnst.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:25:54,518 - DEBUG - Scan thread started
+2024-10-05 22:25:54,518 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:25:54,582 - DEBUG - Received output: Scan starting...
+2024-10-05 22:25:54,683 - DEBUG - Received output: Scan finished.
+2024-10-05 22:25:54,784 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+2024-10-05 22:25:54,886 - DEBUG - Received output: 
+2024-10-05 22:25:54,987 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:25:55,088 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:25:55,189 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:25:55,290 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 22:25:55,391 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\eicar_tebdjnfbnst.txt
+2024-10-05 22:25:55,493 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:25:55,599 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\Target Folder\eicar_tebdjnfbnst.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:31:51,619 - DEBUG - Scan thread started
+2024-10-05 22:31:51,619 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:31:51,670 - DEBUG - Received output: Scan starting...
+2024-10-05 22:31:51,771 - DEBUG - Received output: Scan finished.
+2024-10-05 22:31:51,872 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+2024-10-05 22:31:51,973 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+
+2024-10-05 22:32:55,064 - DEBUG - Scan thread started
+2024-10-05 22:32:55,065 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:32:55,124 - DEBUG - Received output: Scan starting...
+2024-10-05 22:32:55,225 - DEBUG - Received output: Scan finished.
+2024-10-05 22:32:55,327 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+2024-10-05 22:32:55,428 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+
+2024-10-05 22:33:05,546 - DEBUG - Scan thread started
+2024-10-05 22:33:05,546 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:33:05,612 - DEBUG - Received output: Scan starting...
+2024-10-05 22:33:05,712 - DEBUG - Received output: Scan finished.
+2024-10-05 22:33:05,813 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+2024-10-05 22:33:05,914 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+
+2024-10-05 22:34:32,747 - DEBUG - Scan thread started
+2024-10-05 22:34:32,747 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:34:32,825 - DEBUG - Received output: Scan starting...
+2024-10-05 22:34:32,926 - DEBUG - Received output: Scan finished.
+2024-10-05 22:34:33,029 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+2024-10-05 22:34:33,131 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+
+2024-10-05 22:35:01,022 - DEBUG - Scan thread started
+2024-10-05 22:35:01,023 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:35:01,086 - DEBUG - Received output: Scan starting...
+2024-10-05 22:35:01,187 - DEBUG - Received output: Scan finished.
+2024-10-05 22:35:01,289 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+2024-10-05 22:35:01,390 - DEBUG - Received output: 
+2024-10-05 22:35:01,497 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:35:01,600 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:35:01,701 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:35:01,804 - DEBUG - Received output: Resources               : 3 total
+2024-10-05 22:35:01,905 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_3.txt
+2024-10-05 22:35:02,007 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_2.txt
+2024-10-05 22:35:02,108 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_1.txt
+2024-10-05 22:35:02,209 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:35:02,313 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 3 total
+    file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_3.txt
+    file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_2.txt
+    file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_1.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:39:05,115 - DEBUG - Scan thread started
+2024-10-05 22:39:05,117 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:39:05,182 - DEBUG - Received output: Scan starting...
+2024-10-05 22:39:05,283 - DEBUG - Received output: Scan finished.
+2024-10-05 22:39:05,383 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+2024-10-05 22:39:05,485 - DEBUG - Received output: 
+2024-10-05 22:39:05,586 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:39:05,688 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:39:05,788 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:39:05,890 - DEBUG - Received output: Resources               : 1 total
+2024-10-05 22:39:05,991 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_2.txt
+2024-10-05 22:39:06,093 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:39:06,197 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 1 total
+    file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_2.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:40:04,986 - DEBUG - Scan thread started
+2024-10-05 22:40:04,987 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:40:05,038 - DEBUG - Received output: Scan starting...
+2024-10-05 22:40:05,139 - DEBUG - Received output: Scan finished.
+2024-10-05 22:40:05,240 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+2024-10-05 22:40:05,343 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+
+2024-10-05 22:40:15,019 - DEBUG - Scan thread started
+2024-10-05 22:40:15,020 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:40:15,097 - DEBUG - Received output: Scan starting...
+2024-10-05 22:40:15,198 - DEBUG - Received output: Scan finished.
+2024-10-05 22:40:15,299 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+2024-10-05 22:40:15,403 - DEBUG - Received output: 
+2024-10-05 22:40:15,504 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:40:15,606 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:40:15,707 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:40:15,809 - DEBUG - Received output: Resources               : 3 total
+2024-10-05 22:40:15,910 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_3.txt
+2024-10-05 22:40:16,012 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_2.txt
+2024-10-05 22:40:16,113 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_1.txt
+2024-10-05 22:40:16,213 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:40:16,318 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 3 total
+    file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_3.txt
+    file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_2.txt
+    file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_1.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:42:08,960 - DEBUG - Scan thread started
+2024-10-05 22:42:08,960 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:42:09,086 - DEBUG - Received output: Scan starting...
+2024-10-05 22:42:09,187 - DEBUG - Received output: Scan finished.
+2024-10-05 22:42:09,288 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+2024-10-05 22:42:09,390 - DEBUG - Received output: 
+2024-10-05 22:42:09,492 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:42:09,594 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:42:09,696 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:42:09,797 - DEBUG - Received output: Resources               : 3 total
+2024-10-05 22:42:09,899 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_3.txt
+2024-10-05 22:42:10,001 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_2.txt
+2024-10-05 22:42:10,102 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_1.txt
+2024-10-05 22:42:10,204 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:42:10,314 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 3 total
+    file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_3.txt
+    file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_2.txt
+    file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_1.txt
+-------------------------------------------------------------------------------
+
+2024-10-05 22:50:37,097 - DEBUG - Scan thread started
+2024-10-05 22:50:37,098 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:50:37,175 - DEBUG - Received output: Scan starting...
+2024-10-05 22:50:37,277 - DEBUG - Received output: Scan finished.
+2024-10-05 22:50:37,379 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+2024-10-05 22:50:37,482 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found no threats.
+
+2024-10-05 22:50:48,477 - DEBUG - Scan thread started
+2024-10-05 22:50:48,478 - INFO - Starting scan with command: "C:\Program Files\Windows Defender\MpCmdRun.exe" -Scan -ScanType 3 -File "C:\Users\hbhav\Desktop\Target Folder" -DisableRemediation
+2024-10-05 22:50:48,558 - DEBUG - Received output: Scan starting...
+2024-10-05 22:50:48,662 - DEBUG - Received output: Scan finished.
+2024-10-05 22:50:48,763 - DEBUG - Received output: Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+2024-10-05 22:50:48,865 - DEBUG - Received output: 
+2024-10-05 22:50:48,966 - DEBUG - Received output: <===========================LIST OF DETECTED THREATS==========================>
+2024-10-05 22:50:49,069 - DEBUG - Received output: ----------------------------- Threat information ------------------------------
+2024-10-05 22:50:49,170 - DEBUG - Received output: Threat                  : Virus:DOS/EICAR_Test_File
+2024-10-05 22:50:49,271 - DEBUG - Received output: Resources               : 3 total
+2024-10-05 22:50:49,376 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_3.txt
+2024-10-05 22:50:49,477 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_2.txt
+2024-10-05 22:50:49,578 - DEBUG - Received output: file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_1.txt
+2024-10-05 22:50:49,679 - DEBUG - Received output: -------------------------------------------------------------------------------
+2024-10-05 22:50:49,796 - INFO - Moved infected file C:\Users\hbhav\Desktop\Target Folder\virus_file_3.txt to C:\Users\hbhav\Desktop\Infected Folder\virus_file_3.txt
+2024-10-05 22:50:49,800 - INFO - Moved infected file C:\Users\hbhav\Desktop\Target Folder\virus_file_2.txt to C:\Users\hbhav\Desktop\Infected Folder\virus_file_2.txt
+2024-10-05 22:50:49,802 - INFO - Moved infected file C:\Users\hbhav\Desktop\Target Folder\virus_file_1.txt to C:\Users\hbhav\Desktop\Infected Folder\virus_file_1.txt
+2024-10-05 22:50:49,802 - DEBUG - Full output: Scan starting...
+Scan finished.
+Scanning C:\Users\hbhav\Desktop\Target Folder found 1 threats.
+
+<===========================LIST OF DETECTED THREATS==========================>
+----------------------------- Threat information ------------------------------
+Threat                  : Virus:DOS/EICAR_Test_File
+Resources               : 3 total
+    file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_3.txt
+    file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_2.txt
+    file                : C:\Users\hbhav\Desktop\Target Folder\virus_file_1.txt
+-------------------------------------------------------------------------------
+
